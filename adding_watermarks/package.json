@@ -1,0 +1,12 @@
+{
+  "name": "adding_watermarks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AniaSzwal/learning_node.js.git",
+  "author": "Anna Szwal <aniaszwal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
